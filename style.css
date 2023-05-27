@@ -3,8 +3,12 @@
     color: rgb(0, 0, 0);
 }
 
+#lb {
+    font-size: 20px;
+}
+
 body {
-    background-image: linear-gradient( black, rgb(66, 66, 66));
+    background-image: linear-gradient(black, rgb(66, 66, 66));
     background-repeat: no-repeat;
 }
 
@@ -15,6 +19,7 @@ body {
 li {
     color: white;
     font-size: 30px;
+    /* Updated font size to 20px */
 }
 
 h2 {
